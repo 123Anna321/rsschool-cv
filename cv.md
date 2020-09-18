@@ -3,7 +3,7 @@
 ### Cv for Junior-developer  
   
 #### Contacts
-* **Phone:** 8(927) 7**-8*-**  
+* **Phone:** 8(927) 714-82-1*  
 * **E-mail:** 123armaven321@gmail.com  
   
 #### About  
@@ -17,10 +17,7 @@ Skill  | 10 point scale
 ------------- | -------------
 Html  | 7
 Css  | 5
-Scss  | 2
-Gulp  | 1
 Js  | 2
-Docker  | 1
 Node and npm  | 0
 Php  | 4
 
@@ -51,3 +48,5 @@ Php  | 4
 
 #### English language  
   * B2  
+  #### French language 
+  * B1 
