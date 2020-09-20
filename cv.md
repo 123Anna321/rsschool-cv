@@ -46,9 +46,8 @@ Pyton  | 0
   * Rolling Scopes 2020 Q3  
 
 #### English language  
-  * B2-C1 
-  #### French language 
-  * B2
-  #### Latin language 
-  * A1
-  
+ * B2-C1 
+#### French language 
+ * B2
+#### Latin language 
+ * A1
