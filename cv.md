@@ -47,7 +47,9 @@ Pyton  | 0
 
 #### English language  
  * B2-C1 
+
 #### French language 
  * B2
+ 
 #### Latin language 
  * A1
