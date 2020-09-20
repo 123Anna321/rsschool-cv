@@ -22,13 +22,12 @@ Js  | 2
 Marckdown  | 7
 Node and npm  | 0
 Php  | 4
-Pyton  | 0
+Python  | 0
 
 #### Examples of work  
 * Github:  
     * https://gist.github.com/123anna321
-    * -
-    * -
+
 
 
 #### Work experience  
