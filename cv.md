@@ -1,6 +1,6 @@
 # Anna Kulikova
   
-### Cv for Junior-developer  
+### Samara, Russia (ready for relocation)
   
 #### Contacts
 * **Phone:** 8(927) 714-82-1*  
@@ -9,7 +9,7 @@
 #### About  
 From 2010 to 2019 I worked as a marketer.
 I always liked IT development, so I decided to change my profile.
-There is still little practice and skills in WEB development, but I constantly study courses and video tutorials on html / css, JS, PHP.
+There is still little practice and skills in WEB development, but I constantly study courses and video tutorials on html / css, JS, PHP, marckdown.
 
 #### Skills  
 
@@ -17,27 +17,26 @@ Skill  | 10 point scale
 ------------- | -------------
 Html  | 7
 Css  | 5
+Scss  | 3
 Js  | 2
+Marckdown  | 7
 Node and npm  | 0
 Php  | 4
+Pyton  | 0
 
 #### Examples of work  
-* Blogs:  
-    * -    
+* Github:  
+    * https://gist.github.com/123anna321
     * -
-* Landings:  
-    * -
-    * -
-    * -
-* Portals:
     * -
 
+
 #### Work experience  
-* **JVCS "SOKK"**  : Marketer
+* **CJSC "SOKK"**  : Marketer-analyst
     * Sep. 2019 - today
     * **Tasks:** /////
     * **Stack:** Php, Git.
-* **Perfect Organics**  : Marketer
+* **Perfect Organics**  : Marketer-analyst
     * Jun. 2019 - Sep. 2019
     * **Tasks:** ////// store with Bitrix24
     * **Stack:** bitrix, 
@@ -47,6 +46,9 @@ Php  | 4
   * Rolling Scopes 2020 Q3  
 
 #### English language  
-  * B2  
+  * B2-C1 
   #### French language 
-  * B1 
+  * B2
+  #### Latin language 
+  * A1
+  
