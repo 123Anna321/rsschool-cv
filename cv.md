@@ -38,8 +38,8 @@ Pyton  | 0
     * **Stack:** Php, Git.
 * **Perfect Organics**  : Marketer-analyst
     * Jun. 2019 - Sep. 2019
-    * **Tasks:** ////// store with Bitrix24
-    * **Stack:** bitrix, 
+    * **Tasks:** ////// 
+    * **Stack:** bitrix 
 
 
 #### Education  
